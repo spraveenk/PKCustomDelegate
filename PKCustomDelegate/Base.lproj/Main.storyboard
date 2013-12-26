@@ -50,7 +50,7 @@
                     </view>
                     <navigationItem key="navigationItem" title="PKCustomDelegate" id="k21-qE-qTg"/>
                     <connections>
-                        <outlet property="_resultLabel" destination="xLB-hT-iZf" id="FMG-Rz-M35"/>
+                        <outlet property="_resultLabel" destination="xLB-hT-iZf" id="yvI-WM-ml1"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="y3v-LE-O9z" userLabel="First Responder" sceneMemberID="firstResponder"/>

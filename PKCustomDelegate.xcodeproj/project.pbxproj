@@ -469,6 +469,7 @@
 				7D047E4D186C55CB00DCA8E4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		7D047E4E186C55CB00DCA8E4 /* Build configuration list for PBXNativeTarget "PKCustomDelegateTests" */ = {
 			isa = XCConfigurationList;
@@ -477,6 +478,7 @@
 				7D047E50186C55CB00DCA8E4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
