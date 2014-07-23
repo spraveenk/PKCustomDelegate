@@ -1,5 +1,5 @@
 PKCustomDelegate
 ================
 
-- Simple application about customizing delegate protocol's in Objective-C
-- A implemented application to call back function for returning a string from one ViewController to another.
+- Example application about custom protocol creation.
+- In this app will explain how can we use the protocol while how a ViewController sends a message to another ViewController on 'popViewControllerAnimated' perform.
